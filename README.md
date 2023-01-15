@@ -5,7 +5,7 @@ Example content and assets for the [portfolio template repository](https://githu
 ## `content/`
 The content folder provided defines three sections. These sections are:
 1. Home
-  - This is a required section that is shown on the index page of the website.
+  - This is a unique section that is shown on the index page of the website.
 1. Blog
 1. Portfolio
 
