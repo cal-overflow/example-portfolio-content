@@ -1,8 +1,8 @@
 ---
 title: Blog
 description: This is the blog section.
-primary-view: post-feed # What is shown on /blog
-secondary-view: post-view # What is shown on pages like /blog/hello-world
+primaryView: post-feed # What is shown on /blog
+secondaryView: post-view # What is shown on pages like /blog/hello-world
 tags: []
 ---
 
