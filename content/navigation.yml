@@ -1,6 +1,6 @@
 navbar:
   signatureNavItem: 
-    title: 'Example Portfolio'
+    title: 'Example Website'
     href: '/'
   navItems: 
     - title: 'Blog'
