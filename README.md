@@ -1,6 +1,6 @@
 # example-portfolio-content
 
-Example content and assets for the [portfolio template repository](https://github.com/cal-overflow).
+Example content for the [portfolio template repository](https://github.com/cal-overflow).
 
 ## `content/`
 The content folder provided defines three sections. These sections are:
@@ -9,5 +9,4 @@ The content folder provided defines three sections. These sections are:
 1. Blog
 1. Portfolio
 
-## `assets/`
-The assets folder includes an example `headshot.png` image which is shown on the home page.
+Additionally, the content folder includes the `navigation.yml`, which defines the contents that are rendered on the Navbar and Footer.
